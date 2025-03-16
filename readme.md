@@ -73,9 +73,10 @@ The application will be accessible at `http://localhost:3000/`.
 - **User Authentication & Data Storage with MySQL**
 - **Enhanced UI/UX for Better Usability**
 
-## Preview
+## Live Demo
+<a href="https://flutterbuddy1.github.io/sentiment-analytics/">Click here for Live Demo</a>
 
-<a href="https://flutterbuddy1.github.io/sentiment-analytics/">Live Demo</a>
+## Preview
 <img src="./screenshot/appliation.png" style="border-radius:10px;">
 
 ## Contributing
