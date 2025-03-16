@@ -1,9 +1,11 @@
 # Sentiment Analytics by Skill Builders
 
 ## Introduction
+
 Sentiment Analytics by Skill Builders is a powerful tool designed to analyze sentiment from various sources, including direct text input, social media comments (e.g., Instagram), and CSV feedback files. This project leverages the Google Gemini AI API to perform sentiment analysis, extracting key insights such as sentiment polarity, keywords, and summarized feedback.
 
 ## Features
+
 - **Direct Text Analysis**: Users can input text manually to get instant sentiment insights.
 - **Instagram Comment Analysis** (Upcoming Feature): Analyze comments from Instagram posts to gauge audience sentiment.
 - **CSV File Upload**: Bulk sentiment analysis by uploading CSV files containing user feedback.
@@ -11,12 +13,13 @@ Sentiment Analytics by Skill Builders is a powerful tool designed to analyze sen
 - **Local Storage Persistence**: Analysis results are stored in local storage for future reference.
 
 ## Technologies Used
+
 - **Frontend**: React, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, Prisma, MySQL (for storing results)
 - **AI Model**: Google Gemini API for sentiment analysis
 - **Charting**: Recharts for visual representation of sentiment scores
 
 ## How It Works
+
 1. **Enter Text Manually**
    - Users can type or paste a text snippet into the input box and analyze its sentiment instantly.
 2. **Instagram Comments Analysis (Upcoming Feature)**
@@ -29,14 +32,17 @@ Sentiment Analytics by Skill Builders is a powerful tool designed to analyze sen
    - Sentiment trends are plotted in a line chart for an easy-to-understand visual representation.
 
 ## Getting Started
+
 ### Prerequisites
+
 - Node.js & npm/yarn installed
 - API key for Google Gemini AI
 
 ### Installation
+
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/sentiment-analytics.git
+   git clone https://github.com/flutterbuddy1/sentiment-analytics.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -53,22 +59,29 @@ Sentiment Analytics by Skill Builders is a powerful tool designed to analyze sen
      ```
 
 ### Running the Application
+
 ```sh
 npm run dev
 ```
+
 The application will be accessible at `http://localhost:3000/`.
 
 ## Future Enhancements
+
 - **Full Instagram Comments Processing**
 - **Improved Data Insights with AI-based Summarization**
 - **User Authentication & Data Storage with MySQL**
 - **Enhanced UI/UX for Better Usability**
 
 ## Preview
+
+<a href="https://flutterbuddy1.github.io/sentiment-analytics/">Live Demo</a>
 <img src="./screenshot/appliation.png" style="border-radius:10px;">
 
 ## Contributing
+
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve this project.
 
 ## License
+
 This project is licensed under the MIT License.
