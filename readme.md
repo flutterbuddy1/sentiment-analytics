@@ -77,7 +77,7 @@ The application will be accessible at `http://localhost:3000/`.
 <a href="https://flutterbuddy1.github.io/sentiment-analytics/">Click here for Live Demo</a>
 
 ## Preview
-<img src="./screenshot/appliation.png" style="border-radius:10px;">
+<img src="./screenshot/screenshot.png" style="border-radius:10px;object-fit:cover;">
 
 ## Contributing
 
